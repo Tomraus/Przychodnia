@@ -5,3 +5,5 @@ c:\users\johnny\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\ob
 c:\users\johnny\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.Cache
 c:\users\johnny\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
 c:\users\johnny\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\Johnny\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Visual Studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Form1.resources
